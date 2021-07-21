@@ -1,1 +1,2 @@
 this is second file trying to check in git using winodws
+this is third line added from linux system to resolve the merge conflicts 
