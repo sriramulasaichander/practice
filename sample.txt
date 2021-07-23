@@ -1,6 +1,2 @@
 
-this line added to create merge conflicts
-
-this is second file trying to check in git using winodws
-
-this line created to create merge conflicts
+this line created to check the rever commnad in git 
